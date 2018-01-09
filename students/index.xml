@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students on UCR Projects</title>
+    <link>http://projects.ieeeucr.org/students/</link>
+    <description>Recent content in Students on UCR Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2017 00:45:56 -0700</lastBuildDate>
+    
+	<atom:link href="http://projects.ieeeucr.org/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joel Gomez</title>
+      <link>http://projects.ieeeucr.org/students/jgome043/</link>
+      <pubDate>Wed, 18 Oct 2017 00:45:56 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/jgome043/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dphan014</title>
+      <link>http://projects.ieeeucr.org/students/dphan014/</link>
+      <pubDate>Wed, 18 Oct 2017 00:34:06 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/dphan014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mlauh001</title>
+      <link>http://projects.ieeeucr.org/students/mlauh001/</link>
+      <pubDate>Wed, 18 Oct 2017 00:34:06 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/mlauh001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studenta</title>
+      <link>http://projects.ieeeucr.org/students/studenta/</link>
+      <pubDate>Wed, 18 Oct 2017 01:18:24 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/studenta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studentb</title>
+      <link>http://projects.ieeeucr.org/students/studentb/</link>
+      <pubDate>Wed, 18 Oct 2017 01:18:24 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/studentb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studentc</title>
+      <link>http://projects.ieeeucr.org/students/studentc/</link>
+      <pubDate>Wed, 18 Oct 2017 01:18:24 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/studentc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tlove004</title>
+      <link>http://projects.ieeeucr.org/students/tlove004/</link>
+      <pubDate>Wed, 18 Oct 2017 00:34:06 -0700</pubDate>
+      
+      <guid>http://projects.ieeeucr.org/students/tlove004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
