@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on UCR Projects</title>
-    <link>http://projects.ieeeucr.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on UCR Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2017 14:44:47 -0700</lastBuildDate>
     
-	<atom:link href="http://projects.ieeeucr.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>http://projects.ieeeucr.org/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Wed, 18 Oct 2017 14:44:47 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classifieds</title>
-      <link>http://projects.ieeeucr.org/categories/classifieds/</link>
+      <link>/categories/classifieds/</link>
       <pubDate>Wed, 18 Oct 2017 14:42:15 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/categories/classifieds/</guid>
+      <guid>/categories/classifieds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Course Project</title>
-      <link>http://projects.ieeeucr.org/categories/course-project/</link>
+      <link>/categories/course-project/</link>
       <pubDate>Wed, 18 Oct 2017 00:34:06 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/categories/course-project/</guid>
+      <guid>/categories/course-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Org Project</title>
-      <link>http://projects.ieeeucr.org/categories/org-project/</link>
+      <link>/categories/org-project/</link>
       <pubDate>Wed, 18 Oct 2017 01:18:24 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/categories/org-project/</guid>
+      <guid>/categories/org-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Student Project</title>
-      <link>http://projects.ieeeucr.org/categories/student-project/</link>
+      <link>/categories/student-project/</link>
       <pubDate>Wed, 18 Oct 2017 00:34:06 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/categories/student-project/</guid>
+      <guid>/categories/student-project/</guid>
       <description></description>
     </item>
     

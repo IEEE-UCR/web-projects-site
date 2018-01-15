@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bounties on UCR Projects</title>
-    <link>http://projects.ieeeucr.org/bounties/</link>
+    <link>/bounties/</link>
     <description>Recent content in Bounties on UCR Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2017 14:42:15 -0700</lastBuildDate>
     
-	<atom:link href="http://projects.ieeeucr.org/bounties/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/bounties/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>http://projects.ieeeucr.org/bounties/android/</link>
+      <link>/bounties/android/</link>
       <pubDate>Wed, 18 Oct 2017 14:42:15 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/bounties/android/</guid>
+      <guid>/bounties/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ios</title>
-      <link>http://projects.ieeeucr.org/bounties/ios/</link>
+      <link>/bounties/ios/</link>
       <pubDate>Wed, 18 Oct 2017 14:42:15 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/bounties/ios/</guid>
+      <guid>/bounties/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>http://projects.ieeeucr.org/bounties/mobile/</link>
+      <link>/bounties/mobile/</link>
       <pubDate>Wed, 18 Oct 2017 14:42:15 -0700</pubDate>
       
-      <guid>http://projects.ieeeucr.org/bounties/mobile/</guid>
+      <guid>/bounties/mobile/</guid>
       <description></description>
     </item>
     

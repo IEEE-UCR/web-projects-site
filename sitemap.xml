@@ -3,260 +3,258 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://projects.ieeeucr.org/blog/2017/10/20/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/blog/2017/10/20/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/classifieds/smart-map/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/classifieds/smart-map/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/blog/2017/10/18/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/blog/2017/10/18/</loc>
+    <lastmod>2017-10-18T14:33:45-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/projects/solar-car/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/projects/solar-car/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/jgome043/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/jgome043/</loc>
+    <lastmod>2017-10-18T00:45:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/projects/health-friend/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/projects/health-friend/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/about/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2017-10-17T18:10:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/projects/growbot/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/projects/growbot/</loc>
+    <lastmod>2017-10-17T18:01:06-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/android/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/bounties/android/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/bounties/android/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/android/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/blog/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/blog/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/blog/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/bounties/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/bounties/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/classifieds/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/classifieds/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/classifieds/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/classifieds/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/club-projects/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/club-projects/</loc>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/course-project/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/course-project/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/courses/</loc>
+    <loc>/courses/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/courses/cs122a/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/courses/cs122a/</loc>
+    <lastmod>2017-10-17T18:01:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/courses/cs190/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/courses/cs190/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/cs190/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/cs190/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/dphan014/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/dphan014/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/entrepreneurship/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/entrepreneurship/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/ieee/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/ieee/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/ios/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/bounties/ios/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/bounties/ios/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/ios/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/mlauh001/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/mlauh001/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/mobile/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/bounties/mobile/</loc>
+    <lastmod>2017-10-18T14:42:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/bounties/mobile/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/mobile/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/opencv/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/opencv/</loc>
+    <lastmod>2017-10-17T18:01:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/org-project/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/org-project/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/posts/</loc>
+    <loc>/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/projects/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/projects/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/raspberry-pi/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/raspberry-pi/</loc>
+    <lastmod>2017-10-17T18:01:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/posts/spotlight/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/posts/spotlight/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/categories/student-project/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/categories/student-project/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/solo-projects/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/solo-projects/</loc>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/studenta/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/studenta/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/studentb/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/studentb/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/studentc/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/studentc/</loc>
+    <lastmod>2017-10-18T01:18:24-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/</loc>
+    <lastmod>2017-10-18T00:45:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/tags/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/students/tlove004/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/students/tlove004/</loc>
+    <lastmod>2017-10-18T00:34:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://projects.ieeeucr.org/</loc>
-    <lastmod>2018-01-08T16:44:40-08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-10-18T14:44:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   

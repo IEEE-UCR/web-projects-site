@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv=”last-modified” content=”2018-01-15”>
     <title>UCR Projects | Tags</title>
 
     
@@ -29,26 +30,48 @@
 
     
     
-    <meta name="msapplication-TileColor" content="#F44336">
+    <meta name="msapplication-TileColor" content="#2D6CC0">
 
     
-    <meta name="theme-color" content="#F44336">
+    <meta name="theme-color" content="#2D6CC0">
+
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     
     
 
-
     
     
 
     
-    <link rel="stylesheet" href="http://projects.ieeeucr.org/styles/main.css">
+    <link rel="stylesheet" href="/styles/main.css?v=1">
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
   <meta name="generator" content="Hugo 0.32.3" />
 </head>
 <body>
+  <div id="nav-drawer">
+    <ul>
+      <a class="listing" href="/"><li><i class="material-icons">home</i> UCR Projects</li></a>
+      <a class="listing" href="/blog"><li>blog</li></a>
+      <a class="listing" href="/solo-projects"><li>independent</li></a>
+      <a class="listing" href="/club-projects"><li>club</li></a>
+      <a class="listing" href="/students"><li>by student</li></a>
+      <a class="listing" href="/courses"><li>by class</li></a>
+      <a class="listing" href="/classifieds"><li>classifieds</li></a>
+      <a class="listing" href="/submissions"><li>submit your project</li></a>
+      <a class="listing" href="/sponsorship"><li>sponsorship</li></a>
+    </ul>
+    <ul>
+      <a class="listing "href="#"><li>contact us</li></a>
+      <a class="listing "href="/about"><li>about us</li></a>
+    </ul>
+  </div>
+  <div id="nav-overlay"></div>
   <header>
-    <a href="http://projects.ieeeucr.org/">
+    <i class="material-icons" id="hamburger-icon">menu</i>
+    <a href="/">
       <div class="title">UCR Projects</div>
     </a>
     <div class="nav">
@@ -60,33 +83,34 @@
         <a href="/courses"><li>by class</li></a>
         <a href="/classifieds"><li>classifieds</li></a>
         <a href="/submissions"><li>submit your project</li></a>
+        <a href="/sponsorship"><li>sponsorship</li></a>
       </ul>
     </div>
   </header>
   <main>
   
-terms layout
-&#34;tags&#34;
 
-<h1>Tags</h1>
+<div>
+  <h1>Tags</h1>
+  <div class="heading-line"></div>
+</div>
 
 
+<a class="listing" href="/tags/android">android</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/android">android</a>
+<a class="listing" href="/tags/cs190">cs190</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/cs190">cs190</a>
+<a class="listing" href="/tags/entrepreneurship">entrepreneurship</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/entrepreneurship">entrepreneurship</a>
+<a class="listing" href="/tags/ieee">ieee</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/ieee">ieee</a>
+<a class="listing" href="/tags/ios">ios</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/ios">ios</a>
+<a class="listing" href="/tags/mobile">mobile</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/mobile">mobile</a>
+<a class="listing" href="/tags/opencv">opencv</a>
 
-<a class="listing" href="http://projects.ieeeucr.org/tags/opencv">opencv</a>
-
-<a class="listing" href="http://projects.ieeeucr.org/tags/raspberry-pi">raspberry-pi</a>
+<a class="listing" href="/tags/raspberry-pi">raspberry-pi</a>
 
 
   </main>
@@ -98,7 +122,32 @@ terms layout
         <a href="/about"><li>about us</li></a>
       </ul>
     </div>
+    <div class="last-update">Last generated on 2018-01-15.</div>
   </footer>
 </body>
+<script>
+var burger = document.getElementById('hamburger-icon');
+var navDrawer = document.getElementById('nav-drawer');
+var navOverlay = document.getElementById('nav-overlay');
+var html = document.getElementsByTagName('html')[0];
+var body = document.getElementsByTagName('body')[0];
+
+function toggleDrawer(e) {
+  if (navDrawer.classList.contains('expanded')) {
+    navDrawer.classList.remove('expanded');
+    html.removeAttribute('style');
+    body.removeAttribute('style');
+  } else {
+    navDrawer.classList.add('expanded');
+    html.style.overflow = 'hidden';
+    body.style.overflow = 'hidden';
+    body.style.position = 'fixed';
+  }
+}
+
+burger.onclick = toggleDrawer;
+navDrawer.onclick = toggleDrawer;
+navOverlay.onclick = toggleDrawer;
+</script>
 </html>
 
